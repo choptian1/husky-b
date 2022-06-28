@@ -1,0 +1,580 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+		<title>Husky Siberiano &#8211; por Kennel Choptian</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Husky Siberiano &raquo;" href="http://localhost/choptian/feed" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Husky Siberiano &raquo;" href="http://localhost/choptian/comments/feed" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/choptian\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost/choptian/wp-includes/css/dashicons.min.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/choptian/wp-includes/css/admin-bar.min.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/choptian/wp-includes/css/dist/block-library/style.min.css?ver=6.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='the-pet-clinic-fonts-css'  href='//fonts.googleapis.com/css?family=Arvo%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CPassion%20One%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i%7CSchoolbell%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css'  href='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/css/bootstrap.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the-pet-clinic-basic-style-css'  href='http://localhost/choptian/wp-content/themes/the-pet-clinic/style.css?ver=6.0' type='text/css' media='all' />
+<style id='the-pet-clinic-basic-style-inline-css' type='text/css'>
+ .logo, body.logged-in.admin-bar .logo { top: 50%; }
+</style>
+<link rel='stylesheet' id='font-awesome-css-css'  href='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/css/fontawesome-all.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css'  href='http://localhost/choptian/wp-content/uploads/elementor/css/post-9.css?ver=1654888545' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/choptian/wp-content/uploads/elementor/css/global.css?ver=1654889925' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-40-css'  href='http://localhost/choptian/wp-content/uploads/elementor/css/post-40.css?ver=1656333013' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRuluko%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/js/html5.js?ver=3.7.3' id='html5-js-js'></script>
+<![endif]-->
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/js/bootstrap.js?ver=6.0' id='bootstrap-js-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/choptian/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/choptian/wp-json/wp/v2/pages/40" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/choptian/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/choptian/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0" />
+<link rel="canonical" href="http://localhost/choptian/" />
+<link rel='shortlink' href='http://localhost/choptian/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/choptian/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fchoptian%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/choptian/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fchoptian%2F&#038;format=xml" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-40 logged-in admin-bar no-customize-support wp-custom-logo wp-embed-responsive the-pet-clinic-front-page page-two-column elementor-default elementor-template-canvas elementor-kit-9 elementor-page elementor-page-40">
+		<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de ferramentas">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/choptian/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Sobre o WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/choptian/wp-admin/about.php'>Sobre o WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://br.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://br.wordpress.org/support/'>Documentação</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://br.wordpress.org/support/forums/'>Suporte</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/choptian/wp-admin/'>Husky Siberiano</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/choptian/wp-admin/'>Painel</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/choptian/wp-admin/themes.php'>Temas</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/choptian/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/choptian/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://localhost/choptian/wp-admin/themes.php?page=custom-background'>Fundo</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost/choptian/wp-admin/themes.php?page=custom-header'>Cabeçalho</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/choptian/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fchoptian%2F'>Personalizar</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost/choptian/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">1 atualização disponível</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/choptian/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentário esperando moderação</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/choptian/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Novo</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/choptian/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/choptian/wp-admin/media-new.php'>Mídia</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/choptian/wp-admin/post-new.php?post_type=page'>Página</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='http://localhost/choptian/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=8956d7acb6#library'>Página de Aterrissagem</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='http://localhost/choptian/wp-admin/post-new.php?post_type=elementor_library'>Modelo</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/choptian/wp-admin/user-new.php'>Usuário</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='http://localhost/choptian/wp-admin/post.php?post=40&#038;action=edit'>Editar página</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/choptian/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Pesquisar</label><input type="submit" class="adminbar-button" value="Pesquisar" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/choptian/wp-admin/profile.php'>Olá, <span class="display-name">choptian</span><img alt='' src='http://2.gravatar.com/avatar/5eea93d0ea7c7eb72b401ebb69ef3b9f?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5eea93d0ea7c7eb72b401ebb69ef3b9f?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/choptian/wp-admin/profile.php'><img alt='' src='http://2.gravatar.com/avatar/5eea93d0ea7c7eb72b401ebb69ef3b9f?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5eea93d0ea7c7eb72b401ebb69ef3b9f?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>choptian</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/choptian/wp-admin/profile.php'>Editar perfil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/choptian/wp-login.php?action=logout&#038;_wpnonce=f78c10f46f'>Sair</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/choptian/wp-login.php?action=logout&#038;_wpnonce=f78c10f46f">Sair</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>		<div data-elementor-type="wp-page" data-elementor-id="40" class="elementor elementor-40">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b153254 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b153254" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-587b9c6" data-id="587b9c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5061d37 elementor-widget elementor-widget-menu-anchor" data-id="5061d37" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div id="Home" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70e7c059 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-height-default" data-id="70e7c059" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3632c35f" data-id="3632c35f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-39494f0d elementor-widget elementor-widget-image" data-id="39494f0d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="326" height="38" src="http://localhost/choptian/wp-content/uploads/2022/06/Husky-Siberiano.png" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-136384cd elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="136384cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Conheça uma das raças mais lindas de todas</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4a1b9f49 elementor-widget elementor-widget-text-editor" data-id="4a1b9f49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Filhotes de boa procedência com Pedigree reconhecido pela SOBRACI &#8211; Sociedade Brasileira de Cinofilia, WKU &#8211; World Kennel Union e FECAM &#8211; Federação Canina do Mercosul</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1bb80aaa elementor-align-center elementor-widget elementor-widget-button" data-id="1bb80aaa" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=5544997696806&#038;text=Ol%C3%A1!%20gostaria%20de%20saber%20mais%20sobre%20os%20filhotinhos%20de%20Husky%20Siberiano" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-push" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agende uma visita</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7a06040" data-id="7a06040" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-313d39af elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-heading" data-id="313d39af" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;headShake&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">10% de desconto para reservas antecipadas</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-28a84f2 elementor-button-danger elementor-widget elementor-widget-button" data-id="28a84f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=5544997696806&#038;text=Ol%C3%A1!%20gostaria%20de%20saber%20mais%20sobre%20os%20filhotinhos%20de%20Husky%20Siberiano" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Quero um filhote</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7f6e3364 elementor-widget elementor-widget-image" data-id="7f6e3364" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="3040" height="3040" src="http://localhost/choptian/wp-content/uploads/2022/06/dinna.jpg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6aeea5f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6aeea5f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72e6c02c" data-id="72e6c02c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-385c8b43 elementor-widget__width-auto elementor-widget elementor-widget-progress" data-id="385c8b43" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-progress{text-align:left}.elementor-progress-wrapper{position:relative;background-color:#eee;color:#fff;height:100%;border-radius:2px}.elementor-progress-bar{display:-webkit-box;display:-ms-flexbox;display:flex;background-color:#818a91;width:0;font-size:11px;height:30px;line-height:30px;border-radius:2px;-webkit-transition:width 1s ease-in-out;-o-transition:width 1s ease-in-out;transition:width 1s ease-in-out}.elementor-progress-text{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;overflow:hidden;padding-left:15px}.elementor-progress-percentage{padding-right:15px}.elementor-widget-progress .elementor-progress-wrapper.progress-info .elementor-progress-bar{background-color:#5bc0de}.elementor-widget-progress .elementor-progress-wrapper.progress-success .elementor-progress-bar{background-color:#5cb85c}.elementor-widget-progress .elementor-progress-wrapper.progress-warning .elementor-progress-bar{background-color:#f0ad4e}.elementor-widget-progress .elementor-progress-wrapper.progress-danger .elementor-progress-bar{background-color:#d9534f}.elementor-progress .elementor-title{display:block}@media (max-width:767px){.elementor-progress-text{padding-left:10px}}</style>
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" aria-valuetext="Qual o preço pelo amor verdadeiro?">
+			<div class="elementor-progress-bar" data-max="100">
+				<span class="elementor-progress-text">Qual o preço pelo amor verdadeiro?</span>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3c70867e elementor-widget elementor-widget-heading" data-id="3c70867e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Conheça quem vai te dar tudo 
+<br>Sem esperar nada em troca!</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-79d1cf8 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="79d1cf8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-15834055" data-id="15834055" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0a44a1c elementor-position-left elementor-widget__width-initial elementor-absolute elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="0a44a1c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="795" height="661" src="http://localhost/choptian/wp-content/uploads/2022/06/femea-1.jpeg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3232f94 elementor-position-left elementor-widget__width-initial elementor-absolute elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3232f94" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="795" height="661" src="http://localhost/choptian/wp-content/uploads/2022/06/femea-1.jpeg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-570282a elementor-position-left elementor-widget__width-initial elementor-absolute elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="570282a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1600" height="1201" src="http://localhost/choptian/wp-content/uploads/2022/06/filhotes-2021-10-05-at-17.02.37.jpeg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-688478f elementor-position-left elementor-widget__width-initial elementor-absolute elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="688478f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1600" height="1201" src="http://localhost/choptian/wp-content/uploads/2022/06/filhotes-2021-10-05-at-17.02.37.jpeg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7e26759 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7e26759" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="676" height="579" src="http://localhost/choptian/wp-content/uploads/2022/06/femeaa.jpg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-89d2c88 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="89d2c88" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="676" height="579" src="http://localhost/choptian/wp-content/uploads/2022/06/femeaa.jpg" class="elementor-animation-shrink attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Isto é o título</h3><p class="elementor-image-box-description">Lorem ipsum</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ce71cfe elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="ce71cfe" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-685bdc98" data-id="685bdc98" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-56e239fe elementor-widget elementor-widget-heading" data-id="56e239fe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">O que preciso saber antes de ter um hunky Siberiano?</h3>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-33384ec" data-id="33384ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-355a9729 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="355a9729" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6a83270b" data-id="6a83270b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-21e9d3de elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="21e9d3de" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="http://localhost/choptian/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Divertidos brincalhões</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Amam passear</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Super dóceis</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Trocam de pelos 2 vezes ao ano</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3646c8f0" data-id="3646c8f0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6575464f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6575464f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Necessitam de atenção</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">São exigentes com a comida</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Preferem o piso gelado a casinha/caminha</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Conversam como lobos</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c69b5c1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c69b5c1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4b6e4a7f" data-id="4b6e4a7f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ca0936d elementor-widget elementor-widget-spacer" data-id="ca0936d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4d3b7a72" data-id="4d3b7a72" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-569a0de0 elementor-widget elementor-widget-heading" data-id="569a0de0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Aqui você vai encontrar os mais lindos e apaixonantes filhotinhos</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6fe2f8fa elementor-widget elementor-widget-text-editor" data-id="6fe2f8fa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Um husky Siberiano merece todo o carinho e atenção que uma pessoa pode dar, e para garantir que os filhotes encontrem o melhor dos lares, buscamos sempre que possível manter contato com os papais e mamães que adquirem esses fofos. </p><p>Auxiliamos em que for preciso os novos donos com os cuidados básicos e responsabilidades que a pessoa deverá assumir junto com a raça.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b884889 elementor-invisible elementor-widget elementor-widget-button" data-id="3b884889" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;headShake&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=5544997696806&#038;text=Ol%C3%A1!%20gostaria%20de%20saber%20mais%20sobre%20os%20filhotinhos%20de%20Husky%20Siberiano" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-push" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agende uma visita conheça nosso canil</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70e70f4f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70e70f4f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d528f2a" data-id="3d528f2a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-33793dfe elementor-widget elementor-widget-heading" data-id="33793dfe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Clientes que assim como nós amam nossos amiguinhos pets</h3>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-157c7dc6 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="157c7dc6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3d919d94" data-id="3d919d94" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-202ef93d elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="202ef93d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="900" height="900" src="http://localhost/choptian/wp-content/uploads/2022/06/husky-222.jpeg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5eb8625 elementor-position-left elementor-vertical-align-middle elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image-box" data-id="5eb8625" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><p class="elementor-image-box-title">“A Kyara esta linda cresceu bastante mas ainda é uma bebezona ama fazer bagunça!”</p><p class="elementor-image-box-description">Eduardo Campos, Maringá, PR</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1d8c943b" data-id="1d8c943b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30575d80 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="30575d80" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="130" height="130" src="http://localhost/choptian/wp-content/uploads/2022/06/22_Mobile_pet_grooming-Clients_2.jpg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-432f5e60 elementor-position-left elementor-vertical-align-middle elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image-box" data-id="432f5e60" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><p class="elementor-image-box-title">“We are usually finish grooming with stress and tears, but Johnny really loved the grooming process and was calm for the first time. I will definitely book again.”</p><p class="elementor-image-box-description">Jennifer Williams, Phoenix, AZ</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2c0410e5 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="2c0410e5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-35391e32" data-id="35391e32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-144857f3 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="144857f3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="939" height="622" src="http://localhost/choptian/wp-content/uploads/2022/06/husky-22.jpeg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-396a3dfc elementor-position-left elementor-vertical-align-middle elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image-box" data-id="396a3dfc" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><p class="elementor-image-box-title">“Bucky está enorme! Ligado no 220, só consigo tirar fotos dele quando faz Art e fica quietinho no cantinho como se a conversa não fosse com ele, apaixonante”</p><p class="elementor-image-box-description">Josiany, Campo Mourão, PR</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-72a68170" data-id="72a68170" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-717d6ee6 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="717d6ee6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="130" height="130" src="http://localhost/choptian/wp-content/uploads/2022/06/22_Mobile_pet_grooming-Clients_4.jpg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6fe26178 elementor-position-left elementor-vertical-align-middle elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image-box" data-id="6fe26178" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><p class="elementor-image-box-title">“Our in-house dog groomer, John, was gentle and loving. He took such care of our beloved dog, Oscar. We recommend him and the service to everyone.”</p><p class="elementor-image-box-description">Allyson Brooks, Summit Lake, AK</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a42db7f elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="a42db7f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3dc086d3" data-id="3dc086d3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1d564186 elementor-widget elementor-widget-heading" data-id="1d564186" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Leve mais alegria para sua vida</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-951f38 elementor-align-left elementor-mobile-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="951f38" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;headShake&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=5544997696806&#038;text=Ol%C3%A1!%20gostaria%20de%20saber%20mais%20sobre%20os%20filhotinhos%20de%20Husky%20Siberiano" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-push" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Faça sua reserva</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9d1fc2" data-id="9d1fc2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-690bdfb7 elementor-widget elementor-widget-image" data-id="690bdfb7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img width="4032" height="1960" src="http://localhost/choptian/wp-content/uploads/2022/06/20200128_092021-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />											<figcaption class="widget-image-caption wp-caption-text"></figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-621d1be2 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="621d1be2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31fae8c0" data-id="31fae8c0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3852be79 elementor-widget elementor-widget-heading" data-id="3852be79" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">© Kennel Choptian todos os direitos reservados 2022 </p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Pular</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Fechar"></i>
+				<span class="elementor-screen-only">Fechar</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Digite para encontrar algo no Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Nenhum resultado encontrado</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<link rel='stylesheet' id='e-animations-css'  href='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/js/navigation.js?ver=2.1.2' id='the-pet-clinic-navigation-jquery-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/themes/the-pet-clinic/assets/js/jquery.superfish.js?ver=6.0' id='jquery-superfish-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/underscore.min.js?ver=1.13.3' id='underscore-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.6.6' id='elementor-common-modules-js'></script>
+<script type='text/javascript' id='elementor-web-cli-js-before'>
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/choptian\/wp-json\/","assets":"http:\/\/localhost\/choptian\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"b2111a838e"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/choptian\/wp-json\/","assets":"http:\/\/localhost\/choptian\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"b2111a838e"};
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.6.6' id='elementor-web-cli-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"http:\/\/localhost\/choptian\/wp-json\/","nonce":"b2111a838e","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/api-request.min.js?ver=6.0' id='wp-api-request-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='elementor-common-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2022-06-08 08:54:13+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"The file exceeds the maximum upload size for this site.":["O arquivo excede o tamanho m\u00e1ximo de envio para este site."],"Uploading...":["Enviando\u2026"],"Enable Unfiltered File Uploads":["Permitir envio de arquivos sem filtrar"],"Unable to connect":["N\u00e3o \u00e9 poss\u00edvel conectar"],"Finder":["Explorador"],"Enable":["Ativar"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+</script>
+<script type='text/javascript' id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.6.6","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/localhost\/choptian\/wp-content\/plugins\/elementor\/assets\/","rest":"http:\/\/localhost\/choptian\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":true,"subscription_plans":{"0":{"label":null,"promotion_url":null,"color":null},"1":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro&utm_term=thepetclinic","color":"#92003B"},"20":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=goexpert&utm_term=thepetclinic","color":"#010051"}},"base_access_level":0,"current_access_level":0},"ajax":{"url":"http:\/\/localhost\/choptian\/wp-admin\/admin-ajax.php","nonce":"8ad291bb90"},"finder":{"data":{"edit":{"title":"Editar","dynamic":true,"name":"edit"},"general":{"title":"Geral","dynamic":false,"items":{"saved-templates":{"title":"Modelos salvos","icon":"library-save","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informa\u00e7\u00f5es do sistema","icon":"info-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gerenciador de fun\u00e7\u00f5es","icon":"person","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de conhecimento","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Construtor de tema","icon":"library-save","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-app&ver=3.6.6#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Biblioteca de Kits","icon":"kit-parts","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-app&ver=3.6.6#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Criar","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=8956d7acb6","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Adicionar novo Se\u00e7\u00e3o","icon":"plus-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=8956d7acb6","keywords":["Adicionar novo Se\u00e7\u00e3o","post","page","template","new","create"]},"wp-post":{"title":"Adicionar novo Post","icon":"plus-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=8956d7acb6","keywords":["Adicionar novo Post","post","page","template","new","create"]},"wp-page":{"title":"Adicionar novo P\u00e1gina","icon":"plus-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=8956d7acb6","keywords":["Adicionar novo P\u00e1gina","post","page","template","new","create"]},"landing-page":{"title":"Adicionar novo P\u00e1gina de Aterrissagem","icon":"plus-circle-o","url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=8956d7acb6#library","keywords":["Adicionar novo P\u00e1gina de Aterrissagem","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"In\u00edcio","url":"http:\/\/localhost\/choptian","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Painel","icon":"dashboard","url":"http:\/\/localhost\/choptian\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/choptian\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Temas","icon":"wordpress","url":"http:\/\/localhost\/choptian\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Personalizar","icon":"wordpress","url":"http:\/\/localhost\/choptian\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/choptian\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Usu\u00e1rios","icon":"wordpress","url":"http:\/\/localhost\/choptian\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Configura\u00e7\u00f5es","dynamic":false,"items":{"general-settings":{"title":"Configura\u00e7\u00f5es gerais","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Avan\u00e7ado","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experimentos","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Ferramentas","dynamic":false,"items":{"tools":{"title":"Ferramentas","icon":"tools","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Substituir URL","icon":"tools","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Modo de manuten\u00e7\u00e3o","icon":"tools","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Controle de Vers\u00e3o","icon":"time-line","url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.6.6' id='elementor-common-js'></script>
+<script type='text/javascript' id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-app&ver=3.6.6#site-editor\/promotion","assets_url":"http:\/\/localhost\/choptian\/wp-content\/plugins\/elementor\/assets\/","return_url":"http:\/\/localhost\/choptian\/wp-admin\/edit.php?post_type=page","hasPro":false,"admin_url":"http:\/\/localhost\/choptian\/wp-admin\/","login_url":"http:\/\/localhost\/choptian\/wp-login.php","base_url":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-app&ver=3.6.6","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.6.6' id='elementor-app-loader-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.6' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.6' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Celular","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Celular extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/localhost\/choptian\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":40,"title":"Husky%20Siberiano%20%E2%80%93%20por%20Kennel%20Choptian","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.6' id='elementor-frontend-js'></script>
+<script type='text/javascript' id='elementor-admin-bar-js-before'>
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Editar com Elementor","href":"http:\/\/localhost\/choptian\/wp-admin\/post.php?post=40&action=elementor","children":{"41":{"id":"elementor_site_settings","title":"Configura\u00e7\u00f5es do site","sub_title":"Site","href":"http:\/\/localhost\/choptian\/wp-admin\/post.php?post=40&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"42":{"id":"elementor_app_site_editor","title":"Construtor de tema","sub_title":"Site","href":"http:\/\/localhost\/choptian\/wp-admin\/admin.php?page=elementor-app&ver=3.6.6#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script type='text/javascript' src='http://localhost/choptian/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.6.6' id='elementor-admin-bar-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='http://localhost/choptian/wp-includes/js/admin-bar.min.js?ver=6.0' id='admin-bar-js'></script>
+	</body>
+</html>
